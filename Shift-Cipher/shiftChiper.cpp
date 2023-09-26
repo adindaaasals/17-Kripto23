@@ -15,7 +15,7 @@ string enkripsi(string plainText, int key) {
             cipherText += char(int(plainText[i] + key - 97) % 26 + 97);
         }
     }
-    return cipherText;
+    return cipherText; 
 }
 
 string dekripsi(string cipherText, int key) {
