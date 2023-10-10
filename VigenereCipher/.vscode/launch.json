@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/prakKripto/17-Kripto23/Shift-Cipher",
-      "program": "e:/prakKripto/17-Kripto23/Shift-Cipher/build/Debug/outDebug",
+      "cwd": "e:/prakKripto/VignereCipher",
+      "program": "e:/prakKripto/VignereCipher/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
